@@ -1,0 +1,15 @@
+{
+  "short_name": "W-IDE",
+  "name": "By Bikram Bhattacharya",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
